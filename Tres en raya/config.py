@@ -1,0 +1,2 @@
+CASILLA = '🟨'
+TURNOS = ['⭕', '❎']

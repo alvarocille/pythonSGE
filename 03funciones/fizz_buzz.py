@@ -1,3 +1,8 @@
+# Desarrollo de aplicaciones multiplataforma 2024/25
+# Álvaro Cilleruelo Sinovas
+
+# Fizz - Buzz
+
 def fizz_buzz (fizz, buzz):
     num_fizz = 0
     num_buzz = 0
