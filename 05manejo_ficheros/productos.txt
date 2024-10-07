@@ -1,0 +1,5 @@
+Manzanas, 1, 29
+Peras, 2, 12
+Melocotones, 4, 7
+PiÃ±as, 10, 2
+Sandía, 20, 4

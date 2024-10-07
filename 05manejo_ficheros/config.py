@@ -1,0 +1,1 @@
+FICHERO = "productos.txt"
