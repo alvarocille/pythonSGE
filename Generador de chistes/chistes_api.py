@@ -25,5 +25,3 @@ class ChistesAPI:
         except Exception as e:
             print(f"Ocurrió un error: {e}")
 
-# Nota: Se puede añadir un método para gestionar los límites de peticiones aquí si la API los tiene.
-
